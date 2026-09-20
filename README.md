@@ -1,4 +1,3 @@
-Oui. **Tu dois simplement supprimer ce qu'il y a actuellement dans `README.md` et copier-coller exactement tout le bloc ci-dessous.** Ne rajoute rien et ne modifie rien pour l'instant.
 
 ````markdown
 # 🛡️ Mini LLM Safety Benchmark
