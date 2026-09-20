@@ -1,5 +1,3 @@
-
-````markdown
 # 🛡️ Mini LLM Safety Benchmark
 
 ## 📌 Description
@@ -66,7 +64,6 @@ Visualisations
     ↓
 Interface Streamlit
 ```
-````
 
 Chaque réponse est associée à un comportement :
 
