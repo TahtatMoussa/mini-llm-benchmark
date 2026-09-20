@@ -65,6 +65,7 @@ Métriques
 Visualisations
     ↓
 Interface Streamlit
+```
 ````
 
 Chaque réponse est associée à un comportement :
